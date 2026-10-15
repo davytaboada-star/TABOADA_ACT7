@@ -1,17 +1,12 @@
 body {
   color: white;
   background-color: #043461;
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  padding: 20px;
-  line-height: 1.6;
 }
 
 a {
   color: white;
   text-decoration: none;
   border: 2px solid white;
-  padding: 5px 10px;
 }
 
 a {
@@ -31,7 +26,6 @@ ul, ol {
 
 li {
   text-align: left;
-  margin-bottom: 5px;
 }
 
 p {
